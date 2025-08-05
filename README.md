@@ -48,3 +48,4 @@ json format:
 }
 
 # UML Diagram
+![](https://github.com/low-level-dreamer/AffirmationAppMicroservicesA/blob/main/UML.png)
